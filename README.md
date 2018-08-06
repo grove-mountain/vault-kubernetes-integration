@@ -11,6 +11,7 @@ This is a publicly facing repo for storing integration points between Vault and 
 ## Code Repos
 
 * [BoostPort Kubernetes-Vault](https://github.com/Boostport/kubernetes-vault) 
+* [Oracle's Kubernetes KMS Plugin Provider for HashiCorp Vault](https://github.com/oracle/kubernetes-vault-kms-plugin)
 
 ## Webinars
 * [Armon's Vault/Kubernetes Webinar](https://www.youtube.com/watch?v=FhUJYwM_xy0)
